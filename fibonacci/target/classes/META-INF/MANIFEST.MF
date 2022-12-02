@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: josea
+Build-Jdk: 19
+Main-Class: es.iescarrillo.daw.endes.fibonacci.App
+Created-By: Maven Integration for Eclipse
+
